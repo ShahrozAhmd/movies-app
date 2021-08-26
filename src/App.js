@@ -6,9 +6,12 @@ import Body from "./components/Body/body";
 import HomeRoute from "./Routes/HomeRoute";
 import MoviesRoute from "./Routes/MoviesRoute";
 import SeriesRoute from "./Routes/SeriesRoute";
+import { useLocation } from "react-router";
 // import Instructions from "./screens/Instructions";
 
 const App = () => {
+  let location = useLocation();
+
   return (
     <main>
       <div>
