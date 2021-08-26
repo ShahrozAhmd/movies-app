@@ -1,3 +1,3 @@
-# react-coding-challenge-2
-React Coding Challenge - Series/Movies tiles
+# Instructions
+![alt text](https://github.com/ShahrozAhmd/movies-app/blob/main/src/assets/instructions.png)
 
